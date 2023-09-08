@@ -12,7 +12,7 @@ life with scalable and efficient solutions.
 ### 🌱 currently learning<br/>
 - Exploring the world of DevOps, diving into tools like Jenkins for automation, Ansible for configuration management, Docker and Kubernetes for containerization, and Prometheus for monitoring. Embracing the DevOps philosophy to enhance collaboration and streamline software delivery and also 
 - Expanding my front-end development toolkit with modern tools and libraries such as React Native for mobile app development, GraphQL for efficient APIs, Webpack for bundling, and Tailwind CSS for responsive and sleek UI design. Elevating user experiences with cutting-edge front-end technologies.
-### 👯 Projects<br />
+### 🔧 Projects<br />
  - MLDE: MLDE is composed of MLDE-CST-WEB and MLDE-WEB that provide insurance
          service. MLDE-CST is used by Consumers(Consumers are companies that want
          to provide insurance to their employees). MLDE-WEB is used by an admin
