@@ -1,4 +1,5 @@
-### Hi there, I'm Md Ali Akbar! 👋---
+### Hi there, I'm Md Ali Akbar! 👋
+---
 Armed with expertise in creating responsive and user-friendly front-end interfaces using React and Redux, and a strong back-end foundation with Node.js and Express.js, I bring ideas to 
 life with scalable and efficient solutions.
 - 🔭 I’m currently working on ...
