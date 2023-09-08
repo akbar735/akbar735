@@ -32,7 +32,7 @@ life with scalable and efficient solutions.
 ### 📫 How to reach me</br>
 LinkedIn: https://www.linkedin.com/in/md-ali-akbar-89615a15a/<br/>
 Email: mdaliakbar858@gmail.com
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[https://skillicons.dev]
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
 
