@@ -12,10 +12,24 @@ life with scalable and efficient solutions.
 ### 🌱 currently learning<br/>
 - Exploring the world of DevOps, diving into tools like Jenkins for automation, Ansible for configuration management, Docker and Kubernetes for containerization, and Prometheus for monitoring. Embracing the DevOps philosophy to enhance collaboration and streamline software delivery and also 
 - Expanding my front-end development toolkit with modern tools and libraries such as React Native for mobile app development, GraphQL for efficient APIs, Webpack for bundling, and Tailwind CSS for responsive and sleek UI design. Elevating user experiences with cutting-edge front-end technologies.
-👯 I’m looking to collaborate on ...
-🤔 I’m looking for help with ...
+### 👯 Projects<br />
+ - MLDE: MLDE is composed of MLDE-CST-WEB and MLDE-WEB that provide insurance
+         service. MLDE-CST is used by Consumers(Consumers are companies that want
+         to provide insurance to their employees). MLDE-WEB is used by an admin
+         who can have control over MLDE-CST data and usage
+ - Claim Admin Portal: Claim Admin Portal is a tool that provide Interactive UI where user can
+         Deal with information related to insurance. They can raise claim against
+         in particular, upload and download files related to claims etc.
+ - Centerpoint: Centerpoint is an interactive platform that automates the bidding for projects
+                between bankers and vendors. It provides tools for uploading and sharing
+                required documents to respective users.
+ - CMS: Crisis Management System(CMS) helps in identifying, assessing, and
+        handling a crisis situation by orchestrating the communication between all
+        parties involved in handling the crisis, by allocating and managing resources
+
+<!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
 📫 How to reach me: ...
-😄 Pronouns: ...
-⚡ Fun fact: ...
+<!-- 😄 Pronouns: ... -->
+<!-- ⚡ Fun fact: ... -->
 
