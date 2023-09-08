@@ -29,7 +29,9 @@ life with scalable and efficient solutions.
 
 <!-- 🤔 I’m looking for help with ... -->
 <!-- 💬 Ask me about ... -->
-📫 How to reach me: ...
+### 📫 How to reach me</br>
+LinkedIn: https://www.linkedin.com/in/md-ali-akbar-89615a15a/
+Email: mdaliakbar858@gmail.com
 <!-- 😄 Pronouns: ... -->
 <!-- ⚡ Fun fact: ... -->
 
